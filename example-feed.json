@@ -1,0 +1,110 @@
+[
+    {
+        "legs": [
+            {
+                "origin": {
+                    "name": "Leiden Centraal",
+                    "track": "8b",
+                    "timeOfArrival": "2019-01-20T19:30:00.000Z"
+                },
+                "destination": {
+                    "name": "Schiedam Centrum",
+                    "track": "3",
+                    "timeOfArrival": "2019-01-20T19:58:00.000Z"
+                },
+                "direction": "Dordrecht"
+            }
+        ],
+        "duration": 28
+    },
+    {
+        "legs": [
+            {
+                "origin": {
+                    "name": "Leiden Centraal",
+                    "track": "8b",
+                    "timeOfArrival": "2019-01-20T19:45:00.000Z"
+                },
+                "destination": {
+                    "name": "Schiedam Centrum",
+                    "track": "3",
+                    "timeOfArrival": "2019-01-20T20:13:00.000Z"
+                },
+                "direction": "Vlissingen"
+            }
+        ],
+        "duration": 28
+    },
+    {
+        "legs": [
+            {
+                "origin": {
+                    "name": "Leiden Centraal",
+                    "track": "8b",
+                    "timeOfArrival": "2019-01-20T20:00:00.000Z"
+                },
+                "destination": {
+                    "name": "Schiedam Centrum",
+                    "track": "3",
+                    "timeOfArrival": "2019-01-20T20:28:00.000Z"
+                },
+                "direction": "Dordrecht"
+            }
+        ],
+        "duration": 28
+    },
+    {
+        "legs": [
+            {
+                "origin": {
+                    "name": "Leiden Centraal",
+                    "track": "8b",
+                    "timeOfArrival": "2019-01-20T20:15:00.000Z"
+                },
+                "destination": {
+                    "name": "Schiedam Centrum",
+                    "track": "3",
+                    "timeOfArrival": "2019-01-20T20:43:00.000Z"
+                },
+                "direction": "Vlissingen"
+            }
+        ],
+        "duration": 28
+    },
+    {
+        "legs": [
+            {
+                "origin": {
+                    "name": "Leiden Centraal",
+                    "track": "8b",
+                    "timeOfArrival": "2019-01-20T20:30:00.000Z"
+                },
+                "destination": {
+                    "name": "Schiedam Centrum",
+                    "track": "3",
+                    "timeOfArrival": "2019-01-20T20:58:00.000Z"
+                },
+                "direction": "Dordrecht"
+            }
+        ],
+        "duration": 28
+    },
+    {
+        "legs": [
+            {
+                "origin": {
+                    "name": "Leiden Centraal",
+                    "track": "8b",
+                    "timeOfArrival": "2019-01-20T20:45:00.000Z"
+                },
+                "destination": {
+                    "name": "Schiedam Centrum",
+                    "track": "3",
+                    "timeOfArrival": "2019-01-20T21:13:00.000Z"
+                },
+                "direction": "Vlissingen"
+            }
+        ],
+        "duration": 28
+    }
+]

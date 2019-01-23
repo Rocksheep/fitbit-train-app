@@ -1,0 +1,89 @@
+.defaultText {
+  font-size: 32;
+  font-family: System-Regular;
+  font-weight: regular;
+  text-length: 32;
+}
+
+#background {
+  fill: #FFFFFF;
+  width: 100%;
+  height: 100%;
+}
+
+.brand-primary {
+  fill: #fcc63f;
+}
+
+.w-max {
+  width: 100%;
+}
+
+.h-status {
+  height: 40;
+}
+
+#status-bar-top {
+  width: 100%;
+  height: 30;
+  fill: #fcc63f;
+  x: 0;
+  y: 0;
+}
+
+#status-bar-bottom {
+  width: 100%;
+  height: 30;
+  fill: #fcc63f;
+  x: 0;
+  y: 100%-30;
+}
+
+#status-text-top {
+  x: 50%;
+  y: 20;
+  font-family: System-Regular;
+  font-size: 20;
+  font-weight: bold;
+  fill: #000000;
+  text-anchor: middle;
+}
+
+#status-text-bottom {
+  x: 50%;
+  y: 100%-10;
+  font-family: System-Regular;
+  font-size: 20;
+  font-weight: bold;
+  fill: #000000;
+  text-anchor: middle;
+}
+
+#depart-time {
+  x: 60;
+  y: 80;
+  font-family: System-Regular;
+  font-size: 32;
+  font-weight: bold;
+  fill: #000000;
+}
+
+
+#arrive-time {
+  x: 60;
+  y: 100%-70;
+  font-family: System-Regular;
+  font-size: 32;
+  font-weight: bold;
+  fill: #000000;
+}
+
+.orb-outline {
+  r: 10;
+  fill: #000000;
+}
+
+.orb {
+  r: 5;
+  fill: #FFFFFF;
+}

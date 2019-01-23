@@ -1,0 +1,18 @@
+<svg>
+  <rect id="background" />
+  <rect id="status-bar-top"/>
+  <text id="status-text-top">Leiden Centraal</text>
+  <text id="depart-time">12:00</text>
+
+  <rect id="spacer" x="20" y="70" width="10" height="100%-150" fill="#000000" />
+
+  <circle class="orb-outline" cx="25" cy="70" />
+  <circle class="orb" cx="25" cy="70" />
+
+  <circle class="orb-outline" cx="25" cy="100%-80" />
+  <circle class="orb" cx="25" cy="100%-80" />
+
+  <text id="arrive-time">12:30</text>
+  <rect id="status-bar-bottom"/>
+  <text id="status-text-bottom">Schiedam Centrum</text>
+</svg>
